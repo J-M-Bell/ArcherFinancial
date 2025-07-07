@@ -1,0 +1,8 @@
+@startsalt
+scale 2
+{^"VBox"
+Welcome to Archer Financial
+*logo*
+[Create Profile]|[Sign In]
+}
+@endsalt
