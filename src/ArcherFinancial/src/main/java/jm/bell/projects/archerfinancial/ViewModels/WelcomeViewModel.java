@@ -1,9 +1,9 @@
-package jm.bell.projects.archerfinancial;
+package jm.bell.projects.archerfinancial.ViewModels;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class WelcomeViewModel {
     @FXML
     private Label welcomeText;
 
