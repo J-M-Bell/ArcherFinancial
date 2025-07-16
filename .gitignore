@@ -8,3 +8,5 @@ src/ArcherFinancial/.idea/.gitignore
 src/ArcherFinancial/.gitignore
 src/.DS_Store
 Docs/.DS_Store
+Workspace/.DS_Store
+Workspace/Archer Financial.code-workspace
