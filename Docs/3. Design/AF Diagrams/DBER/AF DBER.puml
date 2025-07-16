@@ -1,6 +1,6 @@
 
 
-@startuml DBER Template
+@startuml Archer Financial DBER
 
 'groups two or more similar arrows together
 skinparam groupInheritance 2
