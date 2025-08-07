@@ -1,0 +1,15 @@
+Account Use Case 'Archer Financial'
+
+@startuml
+left to right direction
+actor "End User" as user
+rectangle Account {
+	usecase "Create Account" as UC1
+	usecase "Add Transaction" as UC2
+	usecase "View Account Balance" as UC3
+}
+
+user--> UC1
+user--> UC2
+user--> UC3
+@enduml
