@@ -41,6 +41,8 @@ class Transaction
 -date : DateTime
 -transactionType : String
 -category : String
+
+#bool createTransaction(Transaction transaction)
 }
 
 class Category
