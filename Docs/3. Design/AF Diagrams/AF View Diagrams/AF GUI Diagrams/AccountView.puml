@@ -1,0 +1,12 @@
+@startsalt
+scale 2
+{^
+"Account Name"
+Account Balance | "Display Account Balance"
+Account Type | "Display Account Type"
+Transaction List | "Display List of Transactions"
+}
+{
+[Cancel]|[    Done     ]
+}
+@endsalt

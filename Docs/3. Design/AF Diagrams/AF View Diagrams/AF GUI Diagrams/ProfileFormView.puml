@@ -1,5 +1,6 @@
 @startsalt
-scale 2
+
+{
 {^
 Create Account
 First Name | "Enter text here "
@@ -7,6 +8,12 @@ Last Name | "Enter text here "
 Phone Number | "Enter text here "
 Email | "Enter text here "
 Password | "Enter text here "
+} |
+{
+"Enter logo here"
+}
+{
 [Cancel]|[    Done     ]
+}
 }
 @endsalt
