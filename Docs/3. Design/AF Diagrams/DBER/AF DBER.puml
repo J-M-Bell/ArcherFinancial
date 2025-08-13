@@ -20,7 +20,6 @@ entity Account {
 * AccountID : int <<PK>> <<generated>>
 --
 * UserID : int <<FK>>
-* TransactionID : int <<FK>>
 * Balance : decimal 
 
 }
@@ -29,7 +28,7 @@ entity Transaction {
 * TransactionID : int <<PK>> <<generated>>
 --
 * UserID : int <<FK>>
-* AccountID
+* AccountID : int <<FK>>
 }
 
 entity Category {
